@@ -22,4 +22,4 @@ $ git pull
 
 $ ls
 
-$ python Simpil-Rebon 
+$ python run.py

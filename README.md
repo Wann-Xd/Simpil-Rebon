@@ -21,3 +21,6 @@ $ cd Simpil-Rebon
 $ git pull
 
 $ python run.py
+
+
+# Note Script Ini Free ya Adik

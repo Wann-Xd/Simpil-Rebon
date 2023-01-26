@@ -23,3 +23,4 @@ $ git pull
 $ python run.py
 
 
+# CLOSE DULU NGAB 

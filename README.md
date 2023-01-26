@@ -1,4 +1,4 @@
-# Simpil-Rebon
+# Simpil-Rebon - CLOSE DULU NGAB
 
 $ pkg update && pkg upgrade
 

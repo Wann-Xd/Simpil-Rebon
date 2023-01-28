@@ -1,4 +1,4 @@
-# Simpil-Rebon - CLOSE DULU NGAB
+# Simpil-Rebon
 
 $ pkg update && pkg upgrade
 
@@ -23,4 +23,3 @@ $ git pull
 $ python run.py
 
 
-# CLOSE DULU NGAB 

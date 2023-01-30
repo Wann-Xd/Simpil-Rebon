@@ -20,6 +20,4 @@ $ cd Simpil-Rebon
 
 $ git pull
 
-$ python run.py
-
-
+$ python Run.py

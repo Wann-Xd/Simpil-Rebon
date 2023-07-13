@@ -4,4 +4,4 @@ cd Simpil-Rebon
 
 git pull
 
-python run1
+python run1.py
